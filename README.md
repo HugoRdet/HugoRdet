@@ -2,6 +2,7 @@
 [![N|Solid](https://raw.githubusercontent.com/HugoRdet/HugoRdet/b95d638c5919aaf82552689e27d40f2838e5dbee/Hugo%20Riffaud.svg)](https://raw.githubusercontent.com/HugoRdet/HugoRdet/b95d638c5919aaf82552689e27d40f2838e5dbee/Hugo%20Riffaud.svg)
 
 
+hugordet@gmail.com
 
 <!--
 **HugoRdet/HugoRdet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
