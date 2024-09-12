@@ -1,8 +1,4 @@
-
-[![N|Solid](https://raw.githubusercontent.com/HugoRdet/HugoRdet/b95d638c5919aaf82552689e27d40f2838e5dbee/Hugo%20Riffaud(1).svg)](https://raw.githubusercontent.com/HugoRdet/HugoRdet/b95d638c5919aaf82552689e27d40f2838e5dbee/Hugo%20Riffaud(1).svg)
-
-
-hugordet@gmail.com
+[![N|Solid](https://raw.githubusercontent.com/HugoRdet/HugoRdet/4c48050316df36568adf4b7a343ce92ac8cf2d77/Hugo%20Riffaud(1).svg)](mailto:hugordet@gmail.com)
 
 <!--
 **HugoRdet/HugoRdet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
